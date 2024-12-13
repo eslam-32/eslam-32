@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React , Python , C#**
 
-- 📫 How to reach me **eslam.mohame.shoukry@gmail.com**
+- 📫 How to reach me **eslam.mohamed.shoukry@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
